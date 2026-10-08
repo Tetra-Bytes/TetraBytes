@@ -13,7 +13,7 @@ p {text-align:center;
    fontsize:25px;}
 
 Ul {list_style_type:none;background-color:pink;}
-li {display:inline;margin-right:35px}
+li {display:inline;margin-center:35px}
 body {background-color:yellow;border-radius:100px;}
 img { display: block; 
      margin-right: auto;
