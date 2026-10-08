@@ -14,7 +14,7 @@ p {text-align:center;
 
 Ul {list_style_type:none;background-color:pink;}
 li {display:inline;margin-right:35px}
-body {background-color:yellow;border-radius:75px;}
+body {background-color:yellow;border-radius:100px;}
 img { display: block; 
      margin-right: auto;
      width:200 px;
