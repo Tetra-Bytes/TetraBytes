@@ -14,7 +14,9 @@ p {text-align:center;
    fontsize:25px;
   }
 
-Ul {list_style_type:none;background-color:pink;}
+Ul {list_style_type:none;
+    background-color:pink;
+   }
 li {display:inline;
     margin-center:35px;
    }
