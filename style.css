@@ -25,7 +25,7 @@ li {display:inline;
 body {background-color:white;
       border-radius:100px;
      }
-img { display: block; 
-     margin-center: auto;
-     width:200 px;
+img { display: block;
+  margin: auto;
+  width: 50%;
     }
