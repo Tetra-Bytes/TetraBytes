@@ -22,6 +22,7 @@ Ul {list_style_type:none;
 li {display:inline;
     margin-center:35px;
     border-right:2px honeydew;
+    padding-right:10px;
    }
 body {background-color:LemonChiffon;
      }
