@@ -11,22 +11,23 @@ h1 {text-align:center;
 
 p {text-align:center;
    text-family:georgia;
-   fontsize:25px;
-   margin-left: 10px;
-   margin-right: 10px;
+   fontsize:25 px;
+   margin-left: 10 px;
+   margin-right: 10 px;
   }
 
 Ul {list_style_type:none;
     background-color:pink;
+    padding: 10 px;
    }
+
 li {display:inline;
-    margin-center:35px;
-    border-right:2px honeydew;
-    padding-right:20px;
+    margin-center:35 px;
+    border-right:2 px honeydew;
    }
 body {background-color:LemonChiffon;
      }
 img { display: block;
   margin: auto;
-  width: 80%;
+  width: 80 %;
     }
