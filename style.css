@@ -12,6 +12,8 @@ h1 {text-align:center;
 p {text-align:center;
    text-family:georgia;
    fontsize:25px;
+   margin-left: 10px;
+   margin-right: 10px;
   }
 
 Ul {list_style_type:none;
