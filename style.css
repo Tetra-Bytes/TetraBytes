@@ -11,18 +11,18 @@ h1 {text-align:center;
 
 p {text-align:center;
    text-family:georgia;
-   fontsize:25 px;
-   margin-left: 10 px;
-   margin-right: 10 px;
+   fontsize:25px;
+   margin-left:10px;
+   margin-right:10px;
   }
 
 Ul {list_style_type:none;
     background-color:pink;
-    padding: 10 px;
    }
 
 li {display:inline;
-    margin-center:35 px;
+    margin-center:35px;
+    padding:50px;
    }
 body {background-color:LemonChiffon;
      }
